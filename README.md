@@ -1,2 +1,2 @@
-# PapelesZ
+# LaptopsZ
 github pages
